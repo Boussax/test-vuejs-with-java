@@ -1,2 +1,2 @@
-# angular-java-example
-This is an example project of angular with java
+# VueJS-java-example
+This is an example project of vueJs with java
